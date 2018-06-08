@@ -1,0 +1,5 @@
+./File3.java:1:	class File3{
+./File3.java:2:	public static void main (String[] args){
+./Pet.java:1:	class Pet{
+./Pet.java:2:	public static void main (String[] args){
+Binary file ./Pet.class matches
